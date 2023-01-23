@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ragul</h1>
-<h3 align="center">A passionate Data scienctist and Backend developer from India</h3>
+<h3 align="center">A passionate Data scientist and Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragulslrk&label=Profile%20views&color=0e75b6&style=flat" alt="ragulslrk" /> </p>
 
