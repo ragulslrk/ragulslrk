@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragulslrk&label=Profile%20views&color=0e75b6&style=flat" alt="ragulslrk" /> </p>
 
-- 🔭 I’m currently working on [video chat application](https://github.com/ragulslrk/truss_videochat)
+- 🔭 I’m currently working on [MLops](https://github.com/ragulslrk/winequality_mlops)
 
 - 🌱 I’m currently learning **TensorFlow and Computer Vision**
 
